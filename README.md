@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehigh19
-- 👀 I’m interested in tattoos, cars, goth girls and more
+- 👀 I’m interested in tattoos, cars, articifial inteligence and IT in general
 - 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
